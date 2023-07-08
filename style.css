@@ -1,4 +1,4 @@
-\\\* {
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -16,7 +16,7 @@
   body {
     height: 60vh;
     width: 50px;;
-    background-image: url(WEG.png);
+    background-image: url(juk.jpeg);
   }
   .wrapper {
     font-size: 16px;
