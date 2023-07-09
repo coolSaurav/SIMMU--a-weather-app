@@ -14,8 +14,8 @@
     --shadow: rgba(3, 46, 87, 0.2);
   }
   body {
-    height: 20\vh;
-    width: 30px;;
+    height: 50vh;
+    width: 10px;;
     background-image: url(juk.jpg);
   }
   .wrapper {
