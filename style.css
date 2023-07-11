@@ -4,6 +4,12 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
   }
+body {
+    height: 100vm;
+    width:60px;
+    background-image: url(juk.jpg);
+  } 
+    
   :root {
     --white: #ffffff;
     --off-white: #e5e5e5;
