@@ -110,7 +110,7 @@ setInterval(() => {
   dateElement.textContent = formatDate(now);
 }, 200);
 //code for greetings wishes
-document.write("<center><font size=+3 style='color:black;'>");
+document.write("<center><font size=+3 style='color:green;'>" );
 var day = new Date() ;
         var hr = day.getHours();
         if (hr >= 0 && hr < 12) {
