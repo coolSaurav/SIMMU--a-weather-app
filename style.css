@@ -159,7 +159,7 @@ body {
   .datetime {
     font-size: 16px;
     padding: 24px;
-    color:white;
+    color:black;
     
     
     
@@ -171,7 +171,7 @@ body {
   
   .time {
     font-size: 3em;
-    color: white;
+    color: black;
   }
   
   .date {
